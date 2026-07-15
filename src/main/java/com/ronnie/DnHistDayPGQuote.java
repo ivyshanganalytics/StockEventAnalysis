@@ -1,4 +1,4 @@
-package com.ronnie;
+package standalone;
 
 // Fastjson is used to parse JSON responses from Polygon API
 
@@ -6,8 +6,7 @@ import com.alibaba.fastjson2.JSON;
 import com.alibaba.fastjson2.JSONArray;
 import com.alibaba.fastjson2.JSONObject;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
+import java.io.*;
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
@@ -25,6 +24,7 @@ import java.util.List;
  * This class downloads historical daily stock prices
  * from Polygon.io and saves them either to files or a database.
  *
+ * Think of it as:
  * - Read stock symbols
  * - Call Polygon API
  * - Save daily OHLCV data
