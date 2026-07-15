@@ -1,0 +1,12 @@
+****************************************
+C:/smart/ronnie/data/spy2025.txt
+2015-2025 firms:498 earnings:20572 avg Price:157.857782315769
+2015-2019 firms:470 earnings:8932 avg Price:109.5201474361845
+2020-2022 firms:486 earnings:5723 avg Price:180.80548528743665
+2023-2025 firms:498 earnings:5917 avg Price:208.6304797363529
+****************************************
+C:/smart/ronnie/data/iwm2025.txt
+2015-2025 firms:1923 earnings:61064 avg Price:33.57177251244596
+2015-2019 firms:1325 earnings:20960 avg Price:32.87273978053435
+2020-2022 firms:1762 earnings:18282 avg Price:35.20090231375123
+2023-2025 firms:1923 earnings:21822 avg Price:32.87834271835762

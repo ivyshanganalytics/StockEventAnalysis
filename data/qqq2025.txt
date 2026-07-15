@@ -1,0 +1,101 @@
+AAPL,9.71,Apple Inc
+MSFT,7.86,Microsoft Corp
+NVDA,7.41,NVIDIA Corp
+AMZN,5.63,Amazon.com Inc
+AVGO,4.05,Broadcom Inc
+META,3.66,Meta Platforms Inc
+COST,2.82,Costco Wholesale Corp
+GOOGL,2.73,Alphabet Inc
+GOOG,2.61,Alphabet Inc
+TSLA,2.56,Tesla Inc
+NFLX,2.52,Netflix Inc
+TMUS,2.03,T-Mobile US Inc
+CSCO,1.68,Cisco Systems Inc
+LIN,1.48,Linde PLC
+PEP,1.4,PepsiCo Inc
+ADBE,1.31,Adobe Inc
+PLTR,1.22,Palantir Technologies Inc
+ISRG,1.22,Intuitive Surgical Inc
+QCOM,1.18,QUALCOMM Inc
+AMGN,1.15,Amgen Inc
+TXN,1.15,Texas Instruments Inc
+INTU,1.13,Intuit Inc
+AMD,1.08,Advanced Micro Devices Inc
+BKNG,1.02,Booking Holdings Inc
+GILD,0.97,Gilead Sciences Inc
+CMCSA,0.95,Comcast Corp
+HON,0.92,Honeywell International Inc
+AMAT,0.85,Applied Materials Inc
+VRTX,0.83,Vertex Pharmaceuticals Inc
+ADP,0.83,Automatic Data Processing Inc
+SBUX,0.8,Starbucks Corp
+PANW,0.79,Palo Alto Networks Inc
+ADI,0.74,Analog Devices Inc
+MU,0.68,Micron Technology Inc
+MELI,0.67,MercadoLibre Inc
+LRCX,0.67,Lam Research Corp
+KLAC,0.63,KLA Corp
+MDLZ,0.6,Mondelez International Inc
+INTC,0.59,Intel Corp
+CTAS,0.54,Cintas Corp
+APP,0.53,AppLovin Corp
+PDD,0.53,PDD Holdings Inc ADR
+CRWD,0.52,Crowdstrike Holdings Inc
+FTNT,0.51,Fortinet Inc
+REGN,0.51,Regeneron Pharmaceuticals Inc
+ORLY,0.5,O'Reilly Automotive Inc
+MAR,0.48,Marriott International Inc/MD
+PYPL,0.47,PayPal Holdings Inc
+DASH,0.46,DoorDash Inc
+SNPS,0.46,Synopsys Inc
+CDNS,0.44,Cadence Design Systems Inc
+CEG,0.44,Constellation Energy Corp
+ASML,0.43,ASML Holding NV
+MSTR,0.43,MicroStrategy Inc
+ROP,0.42,Roper Technologies Inc
+MRVL,0.41,Marvell Technology Inc
+CSX,0.4,CSX Corp
+ABNB,0.38,Airbnb Inc
+PCAR,0.38,PACCAR Inc
+NXPI,0.37,NXP Semiconductors NV
+ADSK,0.37,Autodesk Inc
+AEP,0.37,American Electric Power Co Inc
+PAYX,0.37,Paychex Inc
+CHTR,0.36,Charter Communications Inc
+WDAY,0.35,Workday Inc
+MNST,0.35,Monster Beverage Corp
+CPRT,0.34,Copart Inc
+FAST,0.3,Fastenal Co
+KDP,0.3,Keurig Dr Pepper Inc
+AZN,0.3,AstraZeneca PLC ADR
+ROST,0.3,Ross Stores Inc
+EXC,0.29,Exelon Corp
+BKR,0.28,Baker Hughes Co
+VRSK,0.28,Verisk Analytics Inc
+CTSH,0.27,Cognizant Technology Solutions Corp
+FANG,0.27,Diamondback Energy Inc
+LULU,0.27,Lululemon Athletica Inc
+AXON,0.27,Axon Enterprise Inc
+GEHC,0.26,GE HealthCare Technologies Inc
+XEL,0.26,Xcel Energy Inc
+KHC,0.26,Kraft Heinz Co/The
+TEAM,0.26,Atlassian Corp
+ODFL,0.25,Old Dominion Freight Line Inc
+CCEP,0.25,Coca-Cola Europacific Partners PLC
+EA,0.24,Electronic Arts Inc
+TTWO,0.24,Take-Two Interactive Software Inc
+IDXX,0.23,IDEXX Laboratories Inc
+DDOG,0.23,Datadog Inc
+CSGP,0.22,CoStar Group Inc
+MCHP,0.21,Microchip Technology Inc
+ZS,0.21,Zscaler Inc
+DXCM,0.2,Dexcom Inc
+TTD,0.19,Trade Desk Inc/The
+ANSS,0.19,ANSYS Inc
+WBD,0.18,Warner Bros Discovery Inc
+CDW,0.15,CDW Corp/DE
+GFS,0.15,GLOBALFOUNDRIES Inc
+BIIB,0.15,Biogen Inc
+ON,0.13,ON Semiconductor Corp
+ARM,0.11,ARM Holdings PLC ADR
+MDB,0.09,MongoDB Inc

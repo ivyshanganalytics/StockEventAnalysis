@@ -1,0 +1,30 @@
+GS,8.02948,Goldman Sachs Group Inc
+UNH,7.049736,Unitedhealth Group Inc
+MSFT,5.642744,Microsoft Corp
+HD,5.405878,Home Depot Inc
+SHW,5.216787,Sherwin Williams Co
+CAT,5.025688,Caterpillar Inc
+V,4.954241,Visa Inc Class A Shares
+AMGN,4.660705,Amgen Inc
+MCD,4.609487,Mcdonald S Corp
+CRM,4.058569,Salesforce Inc
+AXP,3.919692,American Express Co
+IBM,3.752265,Intl Business Machines Corp
+TRV,3.682109,Travelers Cos Inc
+JPM,3.475945,Jpmorgan Chase & Co
+AAPL,3.429892,Apple Inc
+HON,3.077678,Honeywell International Inc
+AMZN,2.858602,Amazon.com Inc
+PG,2.524321,Procter & Gamble Co
+JNJ,2.39147,Johnson & Johnson
+CVX,2.24298,Chevron Corp
+BA,2.211991,Boeing Co
+MMM,2.098938,3m Co
+NVDA,1.616742,Nvidia Corp
+DIS,1.513732,Walt Disney Co
+MRK,1.357926,Merck & Co. Inc.
+WMT,1.31589,Walmart Inc
+NKE,1.127516,Nike Inc Cl B
+KO,1.024793,Coca Cola Co
+CSCO,0.917335,Cisco Systems Inc
+VZ,0.660814,Verizon Communications Inc
