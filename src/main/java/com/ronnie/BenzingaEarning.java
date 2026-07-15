@@ -14,7 +14,8 @@ import java.sql.PreparedStatement;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 
-public class BenzingaEarning {
+public class
+BenzingaEarning {
 
     static String API_KEY = "your polygon key here";
 
