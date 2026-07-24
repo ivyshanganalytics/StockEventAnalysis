@@ -19,6 +19,13 @@ The analysis supports the research paper:
 > **Has Earnings Forecast Accuracy Improved in the AI Era? Evidence from
 > S&P 500 and Russell 2000 Firms**
 
+
+## Manuscript
+
+The accompanying research paper is available in the `paper/` directory:
+
+- `paper/earningAccuracy.pdf`
+
 ------------------------------------------------------------------------
 
 ## Data Sources
